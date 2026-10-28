@@ -36,6 +36,14 @@ An interactive memory game built in Embedded C using the MSP430G2553 microcontro
 5. An incorrect answer triggers the game-over state.
 6. Completing the maximum sequence triggers the win animation.
 
+## Project Photos
+
+### Complete Circuit
+![Complete circuit](images/complete_circuit.png)
+
+### Game Running
+![Memory game demo](images/demo_running.png)
+
 ## Skills Demonstrated
 
 Embedded C, microcontroller programming, GPIO configuration, timer peripherals, finite state machines, input handling, and hardware debugging.
